@@ -1,4 +1,6 @@
 # Weighted Book Review Web App
+![bookshelf](https://github.com/calyders/weighted_book_reviews/assets/115501756/65ca1ee4-cc96-4a49-9d6c-be9da5d120db)
+
 ### Project Description
 The idea for this project was to use Python to create a web application capable of retrieving online book reviews and calculating a weighted average review score for each book based on individual user ratings within the corresponding genre. This application will provide a valuable tool for book enthusiasts and help them make informed decisions about their reading choices.
 
